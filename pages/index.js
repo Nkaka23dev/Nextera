@@ -7,8 +7,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <div className='h-screen flex'>
+      <h1 className="text-3xl font-bold underline text-red-600 m-auto">
+        Coming.. soon..
+      </h1>
+    </div>
   )
 }
