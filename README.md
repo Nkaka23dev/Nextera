@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the nextJs Project to practice tailwindCSS, On the main branch we only have NextJS initial file.
 
 ## Getting Started
 
